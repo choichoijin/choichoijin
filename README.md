@@ -1,6 +1,6 @@
-
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choichoijin&show_icons=true&theme=dracula"/>
  
-  ### Yujin Choi 🥭 
+ ### Yujin Choi 🥭 
 **I’m currently learning**
 <br>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -11,7 +11,5 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <br>
- 
-![Yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=choichoijin&show_icons=true&theme=dracula)
- 
 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
