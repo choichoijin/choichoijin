@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choichoijin&show_icons=true&theme=dracula"/>
  
  ### Yujin Choi 🥭 
-**Front-end web developer**
+Warming up to become a **Front-end web developer**
 
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
